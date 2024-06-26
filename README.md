@@ -1,7 +1,14 @@
 # openllm_geoguesser
+
+## Update nach den Experimenten:
+Die gesamten Ergebnisse für das Experiment liegen in resultsComplete.xlsx. Die
+Ergebnisse liegen ebenfalls pro Schwierigkeitsstufe in den entsprechenden CSV-Dateien vor.
+Ein schriftlicher Bericht über die Ergebnisse liegt in results.md.
+
+
 Repository for the experiment assignment of the OpenLLM course SS24
 
-Aufgabe Ziel:
+Zieldes Experiments:
 Ziel des Experiments ist es festzustellen, ob ein kleines Sprachmodell zusammenhängende und inhaltlich korrekte
 geographische Informationen zur Lokalisierung von Ländern auf der Weltkarte generieren kann.
 Insbesondere ist der Gedanke, dass ein unwissender Spieler mit den Informationen aus dem Sprachmodell zuverlässig
@@ -22,7 +29,7 @@ Die Aufgabe kann dabei unterschiedlich schwierig gestaltet werden, indem die Ans
 Folgende Stufen können erster Ansatz festgehalten werden.
 
 1. Angrenzende Länder Identifizieren
-2. Angrenzende Länder in Richtungen Einordnen (e.g. NW, NNW
+2. Angrenzende Länder in Richtungen Einordnen (e.g. NW, NNW)
 3. Richtungsanweisungen auf Basis von anderen Ländern, und geographischen Orientierungspunkten (z.B Gebirge, Seen etc.)
 
 Die resultierenden Angaben müssen manuell überprüft werden, sowohl in Hinblick auf die Eignung zur Lösung der Aufgabe, 
