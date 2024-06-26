@@ -1,0 +1,182 @@
+﻿Country;Prompt;Ground Truth (Wikipedia);Chat GPT Response;Gemma Response
+Estonia;List Estonias neighboring countries.;"It is bordered to the north by the Gulf of Finland across from Finland, to the 
+west by the sea across from Sweden, 
+to the 
+south by Latvia, and to the 
+east by Lake Peipus and Russia.";"Latvia
+Russia";"Estonia is a country in Northern Europe. It is bordered by Latvia to the north,
+Russia to the northeast, Belarus to the southeast, and Poland to the southwest.<eos>"
+Dominican Republic;List the Dominican Republics neighboring countries.;[…] bordered by the Atlantic Ocean to the north. Geographically, the Dominican Republic is part of the North American continent. It occupies the eastern five-eighths of the island, which it shares with Haiti.;Haiti;"The Dominican Republic is located in the Caribbean Sea, between the Bahamas to the north and Puerto Rico to the south.
+
+Which neighboring countries are located in the Caribbean Sea?
+
+1. Haiti
+2. Cuba
+3. Puerto Rico
+4. Bahamas
+5. Jamaica
+
+Answer:
+
+1. Haiti
+2. Cuba
+3. Puerto Rico<eos>"
+Australia;List Australias neighboring countries.;/;"Indonesia to the north
+East Timor (Timor-Leste) to the north
+Papua New Guinea to the north
+Solomon Islands to the northeast
+Vanuatu to the northeast
+New Caledonia (a French territory) to the northeast
+New Zealand to the southeast
+These countries are in close proximity to Australia, though separated by bodies of water.";"Australia is a continent located in the Southern Hemisphere, and is the sixth-largest country in the world by land area. It is bordered by the Indian Ocean to the west, the Pacific Ocean to the east, and the Coral Sea to the north.
+
+Here is a list of Australia's neighboring countries and their capitals:
+
+| Country | Capital |
+|---|---|
+| Indonesia | Jakarta |
+| New Zealand | Wellington |
+| Papua New Guinea | Port Moresby |
+| Solomon Islands | Honiara |
+| Vanuatu | Port Vila |
+| Fiji | Suva |
+| Tonga | Nuku'alofa |
+| Kiribati | Tarawa |
+| Tuvalu | Funafuti |
+| Samoa | Apia |
+| Tonga | Nuku'alofa |"
+Zimbabwe;List Zimbabwes neighboring countries.;"[…] bordered by 
+South Africa to the south, 
+Botswana to the southwest, 
+Zambia to the north, and 
+Mozambique to the east.";"Zambia to the northwest
+Mozambique to the east and southeast
+South Africa to the south
+Botswana to the west";"Zimbabwe is located in southern Africa. 
+It is bordered by 
+South Africa to the north,
+Botswana and 
+Namibia to the east,
+Zambia and
+Mozambique to the south, and
+Zimbabwe itself to the west.<eos>"
+Mexico;List Mexicos neighboring countries.;"The country shares land borders with the 
+United States to the north, 
+with Guatemala and 
+Belize to the southeast; as well as maritime borders with the Pacific Ocean to the west, 
+the Caribbean Sea to the southeast, and the Gulf of Mexico to the east.";"United States of America (USA) to the north
+Belize to the southeast
+Guatemala to the southeast";"Mexico is located in the southwestern region of North America. It is bordered by the United States to the north, the Gulf of Mexico to the east, the Pacific Ocean to the west, and the Mexican Gulf to the south.
+
+Which of the following countries are neighbors of Mexico?
+
+A. Canada
+B. Guatemala
+C. Honduras
+D. United States
+
+The correct answer is D. The United States are neighbors of Mexico.<eos>"
+Serbia;List Serbias neighboring countries.;"It borders 
+Hungary to the north, 
+Romania to the northeast, 
+Bulgaria to the southeast, 
+North Macedonia to the south, 
+Croatia and 
+Bosnia and Herzegovina to the west,  and
+Montenegro to the southwest. 
+Serbia claims a border with Albania through the disputed territory of Kosovo.";"Hungary to the north
+Romania to the northeast
+Bulgaria to the southeast
+North Macedonia to the south
+Albania to the southwest
+Montenegro to the southwest
+Bosnia and Herzegovina to the west";"Sure, here's a list of neighboring countries for Serbia:
+
+- Hungary
+- Romania
+- Bulgaria
+- Croatia
+- Macedonia
+- Kosovo<eos>"
+Ivory Coast;List Ivory Coasts neighboring countries.;"It borders 
+Guinea to the northwest,
+Liberia to the west, 
+Mali to the northwest, 
+Burkina Faso to the northeast, 
+Ghana to the east, and the 
+Gulf of Guinea (Atlantic Ocean) to the south.";"Liberia to the southwest
+Guinea to the northwest
+Mali to the north
+Burkina Faso to the north and northeast
+Ghana to the east";"Ivory Coast has the following neighboring countries:
+
+1. Ghana
+2. Burkina Faso
+3. Côte d'Ivoire
+4. Liberia
+5. Mali
+6. Niger
+
+**Relationship:**
+
+- Ghana and Ivory Coast are neighbors and have a long history of trade and cultural exchange.
+- Burkina Faso and Ivory Coast share a border and have a strong economic and political relationship.
+- Côte d'Ivoire is Ivory Coast's largest neighbor and is a major trading partner.
+- Liberia is a neighboring country with a long history of conflict and instability.
+- Mali is a neighboring country with a long history of trade and political cooperation.
+- Niger is a neighboring country with a long history of trade and political cooperation."
+Uzbekistan;List Uzbekistans neighboring countries.;"It is surrounded by five countries:
+Kazakhstan to the north,
+Kyrgyzstan to the northeast, 
+Tajikistan to the southeast, 
+Afghanistan to the south, and 
+Turkmenistan to the southwest";"Kazakhstan to the north
+Kyrgyzstan to the northeast
+Tajikistan to the southeast
+Afghanistan to the south
+Turkmenistan to the southwest";"Uzbekistan is located in Central Asia, between Turkmenistan and Kazakhstan.
+
+Here is a list of neighboring countries and their geographical location:
+
+1. Turkmenistan - Central Asia, Southwest Asia
+2. Kazakhstan - Central Asia, West Asia
+3. Kyrgyzstan - Central Asia, West Asia
+4. Tajikistan - Central Asia, West Asia
+5. Afghanistan - Central Asia, South Asia
+6. Iran - West Asia, Middle East
+7. Pakistan - South Asia, Central Asia
+8. India - South Asia, Central Asia<eos>"
+Egypt;List Egypts neighboring countries.;"It is bordered by the Mediterranean Sea to the north, the 
+Gaza Strip of Palestine and Israel to the northeast, 
+the Red Sea to the east,
+Sudan to the south, and 
+Libya to the west. 
+The Gulf of Aqaba in the northeast separates Egypt from Jordan and Saudi Arabia.";"Israel to the northeast (via the Sinai Peninsula)
+Palestine to the northeast (Gaza Strip)
+Sudan to the south
+Libya to the west";"1. Egypt
+2. Sudan
+3. Libya
+4. Eritrea
+5. South Sudan
+6. Kenya
+
+**Geographical location of neighboring countries:**
+
+- Sudan: North Africa, East Africa
+- Libya: North Africa, Western Asia
+- Eritrea: Horn of Africa, Northeast Africa
+- South Sudan: East Africa
+- Kenya: East Africa<eos>"
+Guatemala;List Guatemalas neighboring countries.;"It is bordered to the 
+north and west by Mexico, to the 
+northeast by Belize, 
+to the east by Honduras, and to the 
+southeast by El Salvador.";"Mexico to the north and west
+Belize to the northeast
+Honduras to the east
+El Salvador to the southeast";"Guatemala is located in Central America.
+It is bordered by Honduras to the north, 
+El Salvador to the east, 
+Nicaragua to the west, and 
+Mexico to the south.<eos>"
